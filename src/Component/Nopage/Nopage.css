@@ -1,0 +1,10 @@
+.nopage{
+    margin: 100px auto;
+    width: 30%;
+    box-shadow: 10px 10px 20px gray;
+    height: 200px;
+}
+.nopage .image {
+    height: 100%;
+    width: 100%;
+}

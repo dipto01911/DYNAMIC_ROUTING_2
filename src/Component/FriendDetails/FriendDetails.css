@@ -1,0 +1,33 @@
+
+.details{
+      margin: 200px 100px;
+       display: flex;
+       justify-content: center;
+       gap: 20px;
+       width: 40%;
+       
+}
+.details1{
+    text-align: center;
+    width: 50%;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.details1 button{
+    margin-bottom: 20px;
+    width: 60%;
+    padding: 7px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.details2{
+    width: 40%;
+    box-shadow: 10px 10px 20px gray;
+}
+.details2 .img{
+ width: 100%;  
+ height: 100%;
+}
